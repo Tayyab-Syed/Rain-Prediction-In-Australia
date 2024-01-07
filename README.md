@@ -40,7 +40,7 @@ The code utilizes Dash, a Python web application framework, to create an interac
 3. Run the Python script to execute the analysis and create the dashboard.
 
    ```bash
-   python script_name.py
+   python Rain_Prediction_Australia.py
    ```
 
 4. Open your web browser and go to [http://127.0.0.1:8050/](http://127.0.0.1:8050/) to view the dashboard.
